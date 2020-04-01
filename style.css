@@ -63,3 +63,12 @@
 footer{
     text-align: center;
 }
+.cat-image .card{
+    border-radius: 10px;
+    height: 150px;
+    width: 120px;
+    margin-left: 30%;
+}
+.cat-image .card a{
+    text-decoration: none;
+}
